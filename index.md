@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## 成都兴沣瑞中药饮片责任有限公司
+成都兴沣瑞中药饮片致力发展成为“西部领先、全国一流、走向世界”的中药制药品牌生产企业。先后建立成都、巴中、自贡生产工厂。
+公司拥有七大系列产品，其中包括四大国药。曲类系列、贵细药材系列、健康补品系列、养生花茶系列、精致粉剂系列、精致小包装系列、配方饮片系列。其中精致小包装系列拥有260多品种，500多种规格，公司可根据医院需求提供各种规格的产品及相应配套设备和服务。
 
-You can use the [editor on GitHub](https://github.com/Evelyn-T/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 产品介绍
+四大国药：曲类系列
+贵细药材系列
+健康补品系列
+养生花茶系列
+精致粉剂系列
+精致小包装系列
+配方饮片系列
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 四大国药：曲类系列
+六神曲:健脾和胃，消食调中，用于脾胃虚弱，饮食停滞，胸痞腹胀，呕吐泻痢，小儿食积。
+建曲：解表和中，用于寒热头痛，食滞阻中，呕吐胀满。
+半夏曲：降逆止呕，止咳化痰，用于恶心呕吐，食欲不振，咳嗽痰壅。
+胆南星：清热化痰，息风定惊，用于痰热咳嗽，咯痰黄稠，中风痰痫。
+## 贵细药材系列
+冬虫夏草、鹿茸、海马、海参、燕窝、天麻、川贝母、西洋参、红参、三七、灵芝。
+### 健康补品系列
+阿胶、灵芝。
+####  精致瓶装系列
+三七花、玫瑰花、西洋参、贡菊、黄芪、茯苓、决明子。
+#####  精致粉剂系列
+山楂粉、丹参粉、灵芝粉、三七粉、甘草粉、天麻粉、粉葛粉、黄芪粉、西洋参粉、珍珠粉、薏苡仁粉、茯苓粉。
+######  精致小包装系列
+中药饮片选材地道，以独家工艺为主导，包装分配科学量化，包括叶类、花类、皮类、根茎类、全草类、动物类、矿物类等类别产品，覆盖整个常见中药饮片品规。
+######  配方饮片系列
+地道选材，古法炮制传承，确保药材功效。
+艾叶（净制）、巴戟天（切制/段)、白附片（切制）、北沙参（切制/片）。
 
-### Markdown
+- 优质品种
+制川乌
+制草乌
+炮山甲
+四大国药
+阿胶
+龟甲胶
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 咨询热线
+028-83989315-817
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Evelyn-T/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 联系我们
+总 经 理 孙宏芳：13981765388
+普饮总监 朱  亮：15364016750
+控销总监 黄永进：18328116886
